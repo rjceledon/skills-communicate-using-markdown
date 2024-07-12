@@ -6,3 +6,15 @@
 ###### Header 6
 
 ![Testing image](https://octodex.github.com/images/boxertocat_octodex.jpg)
+
+```javascript
+const newArray = [1, 2, 3, 4, 5];
+
+const newFunc = newArray => {
+  for (const value in newArray) {
+    console.log(value++);
+  }
+};
+
+newFunc(newArray);
+```
