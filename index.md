@@ -18,3 +18,8 @@ const newFunc = newArray => {
 
 newFunc(newArray);
 ```
+
+- [X] Do my github page correctly
+- [ ] Improve my portfolio
+- [ ] Publish a good website for people to see my profile
+- [ ] Do a Youtube Channel
